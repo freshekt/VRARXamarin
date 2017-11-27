@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="pikkartar">
+  <name>Pikkart AR SDK</name>
+  <publisher>Pikkart srl</publisher>
+  <publisher-url>https://developer.pikkart.com</publisher-url>
+  <version>3.1.0</version>
+  <summary>Pikkart AR SDK is an augmented reality software development kit for mobile apps.</summary>
+  <packages>
+    <package id="Pikkart.ArSdk" version="3.1.0" framework="android" />
+    <package id="Pikkart.ArSdk" version="3.1.0" framework="ios-unified" />
+    <package id="OpenTK" version="2.0.0" framework="ios-unified" />
+  </packages>
+  <samples>
+    <sample id="TestRecognitionXamarin">
+      <name>iOS Recognition Sample</name>
+      <summary>iOS Recognition Sample</summary>
+    </sample>
+    <sample id="PikkartGeoTutorial">
+      <name>iOS GeoTutorial Sample</name>
+      <summary>iOS GeoTutorial Sample</summary>
+    </sample>
+    <sample id="PikkartAndroidLocalPlanarMarkerTutorial">
+      <name>Android Local Planar Marker Sample</name>
+      <summary>Android Local Planar Marker Sample</summary>
+    </sample>
+    <sample id="PikkartAndroidGeoTutorial">
+      <name>Android GeoTutorial Sample</name>
+      <summary>Android GeoTutorial Sample</summary>
+    </sample>
+    <sample id="PikkartAndroidAugmentedVideoTutorial">
+      <name>Android Augmented Video Sample</name>
+      <summary>Android Augmented Video Sample</summary>
+    </sample>
+    <sample id="PikkartAndroidARLogoTutorial">
+      <name>Android ARLogo Sample</name>
+      <summary>Android ARLogo Sample</summary>
+    </sample>
+  </samples>
+</component>
